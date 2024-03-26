@@ -5,5 +5,5 @@ A payment gateway middleware that facilitates transactions between a banking app
 ### Docs
 #### To access the api documentation on swagger-ui
 -  start up the application
--  Then visit the below link
+-  Then visit the link
 [You can access the API Docs](http://localhost:8080/swagger-ui/index.html)
